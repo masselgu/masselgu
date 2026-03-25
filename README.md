@@ -3,6 +3,7 @@
 # Hi there 👋 I'm Mohamed Amine Asselgui
 ---
 
+
 ## 👨‍💻 About Me
 
 I'm a passionate developer currently pursuing **two academic paths simultaneously**:
