@@ -1,9 +1,6 @@
 [![masselgu's 42 stats](https://badge.mediaplus.ma/binary/masselgu)](https://github.com/oakoudad/badge42)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+👋;I'm+Mohamed+Amine+Asselgui;1337+%26+EST+Student;Passionate+Developer&font=Fira%20Code&center=true&width=440&height=45&color=#FFFFFF&vCenter=true&pause=1000&size=22" />
-</p>
-
+# Hi there 👋 I'm Mohamed Amine Asselgui
 ---
 
 ## 👨‍💻 About Me
@@ -52,19 +49,6 @@ I'm a passionate developer currently pursuing **two academic paths simultaneousl
 
 ---
 
-## 📊 42 Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Libft** | My own C library with essential functions | ✅ Completed |
-| **ft_printf** | Recreation of the standard printf function | ✅ Completed |
-| **get_next_line** | Function to read a line from a file descriptor | ✅ Completed |
-| **push_swap** | Sorting algorithm with two stacks using radix sort | ✅ Completed |
-| **so_long** | 2D game with MinilibX | 🔄 In Progress |
-| **minishell** | Simple shell implementation | 🔜 Upcoming |
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 Deepening knowledge in **C programming** and **system-level development**
@@ -85,19 +69,6 @@ I'm a passionate developer currently pursuing **two academic paths simultaneousl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masselgu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 [ft_printf](https://github.com/masselgu/ft_printf)
-Recreation of the standard C printf function with support for multiple format specifiers. Implemented using variadic functions and efficient string parsing.
-
-### 🔹 [get_next_line](https://github.com/masselgu/get_next_line)
-A function that reads a line from a file descriptor, handling multiple file descriptors simultaneously using static variables.
-
-### 🔹 [push_swap](https://github.com/masselgu/push_swap)
-Sorting algorithm implementation using radix sort on two stacks, optimized for minimal instruction count (≈1100 for 100 numbers, ≈6700 for 500 numbers).
 
 ---
 
@@ -122,7 +93,6 @@ Sorting algorithm implementation using radix sort on two stacks, optimized for m
 - **GitHub**: [@masselgu](https://github.com/masselgu)
 - **LinkedIn**: [Mohamed Amine Asselgui](https://www.linkedin.com/in/m-a-asl)
 - **42 Login**: `masselgu`
-- **Email**: [masselgu@student.1337.ma](mailto:masselgu@student.1337.ma)
 
 ---
 
