@@ -94,7 +94,7 @@ I'm a passionate developer currently pursuing **two academic paths simultaneousl
 - **GitHub**: [@masselgu](https://github.com/masselgu)
 - **LinkedIn**: [Mohamed Amine Asselgui](https://www.linkedin.com/in/m-a-asl)
 - **42 Login**: `masselgu`
-- **Email**: `mohamedamine.asselgui01@gmail.com`
+- **Email**: `asselguiamin94@gmail.com`
 
 ---
 
